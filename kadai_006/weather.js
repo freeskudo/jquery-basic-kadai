@@ -1,0 +1,4 @@
+
+$(function(){
+    $('#target').addClass('heading')
+  });
